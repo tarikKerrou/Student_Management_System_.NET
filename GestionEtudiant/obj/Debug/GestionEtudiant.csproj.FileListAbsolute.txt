@@ -1,0 +1,13 @@
+C:\Users\FUJISTU\source\repos\GestionEtudiant\GestionEtudiant\bin\Debug\mabase.mdf
+C:\Users\FUJISTU\source\repos\GestionEtudiant\GestionEtudiant\bin\Debug\mabase_log.ldf
+C:\Users\FUJISTU\source\repos\GestionEtudiant\GestionEtudiant\bin\Debug\GestionEtudiant.exe.config
+C:\Users\FUJISTU\source\repos\GestionEtudiant\GestionEtudiant\bin\Debug\GestionEtudiant.exe
+C:\Users\FUJISTU\source\repos\GestionEtudiant\GestionEtudiant\bin\Debug\GestionEtudiant.pdb
+C:\Users\FUJISTU\source\repos\GestionEtudiant\GestionEtudiant\obj\Debug\GestionEtudiant.csproj.AssemblyReference.cache
+C:\Users\FUJISTU\source\repos\GestionEtudiant\GestionEtudiant\obj\Debug\GestionEtudiant.csproj.SuggestedBindingRedirects.cache
+C:\Users\FUJISTU\source\repos\GestionEtudiant\GestionEtudiant\obj\Debug\GestionEtudiant.Form1.resources
+C:\Users\FUJISTU\source\repos\GestionEtudiant\GestionEtudiant\obj\Debug\GestionEtudiant.Properties.Resources.resources
+C:\Users\FUJISTU\source\repos\GestionEtudiant\GestionEtudiant\obj\Debug\GestionEtudiant.csproj.GenerateResource.cache
+C:\Users\FUJISTU\source\repos\GestionEtudiant\GestionEtudiant\obj\Debug\GestionEtudiant.csproj.CoreCompileInputs.cache
+C:\Users\FUJISTU\source\repos\GestionEtudiant\GestionEtudiant\obj\Debug\GestionEtudiant.exe
+C:\Users\FUJISTU\source\repos\GestionEtudiant\GestionEtudiant\obj\Debug\GestionEtudiant.pdb
